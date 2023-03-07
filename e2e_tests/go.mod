@@ -20,7 +20,7 @@ require (
 	github.com/kylelemons/godebug v1.1.0
 	github.com/sirupsen/logrus v1.8.1 // indirect
 	go.chromium.org/luci v0.0.0-20210524194916-901fa619ed56 // indirect
-	golang.org/x/net v0.0.0-20210716203947-853a461950ff // indirect
+	golang.org/x/net v0.7.0 // indirect
 	google.golang.org/api v0.51.0
 	google.golang.org/genproto v0.0.0-20210722135532-667f2b7c528f
 	google.golang.org/grpc v1.39.0
